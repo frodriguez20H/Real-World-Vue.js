@@ -1,6 +1,6 @@
 <template>
   <div class="user">
-    <h1>This is {{ username }} page</h1>
+    <h2>This is {{ username }} page</h2>
   </div>
 </template>
 
